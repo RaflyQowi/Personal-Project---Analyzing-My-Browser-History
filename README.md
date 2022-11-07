@@ -1,7 +1,7 @@
 # Personal Project-Analyzing My Browser History
-- Data Source = Google chrome History (Using Google Takeout)
+- Data Source = Google Chrome History (Using Google Takeout)
 
 This code contains:
-- EDA (Visualization Using matplotlib and plotly
+- EDA (Visualization Using Matplotlib and Plotly)
 - NLT (Using TF-IDF and WordCloud)
 - Clustering (Using KNN)
