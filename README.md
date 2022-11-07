@@ -3,5 +3,5 @@
 
 This code contains:
 - EDA (Visualization Using matplotlib and plotly
-- NLT (Using TF-IDF)
+- NLT (Using TF-IDF and WordCloud)
 - Clustering (Using KNN)
